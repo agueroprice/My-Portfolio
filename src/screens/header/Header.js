@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className='main-info'>
       <h1>What am I</h1>
-      <Typed
+      <Typed className='loop-word'
         strings={[
             " ", 
           "A Software Engineer", 

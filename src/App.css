@@ -14,11 +14,4 @@
   --font-color-hover: hsl(0, 0%, 60%);
 }
 
-.tsparticles-canvas-le {
-  position: inherit !important;
-  min-height: 96vh; 
-}
 
-#tsparticles {
-  height: 100vh;
-}
